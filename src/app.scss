@@ -1,0 +1,19 @@
+// If you want to apply these styles to the entire document, you can use the universal selector *
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+// Additional styles for the Selector component can be added here if necessary
+
+.container{
+  background-color: lightgrey;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  // width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  
+}
